@@ -1,0 +1,11 @@
+C:\Users\samue\source\repos\TestDb\TestDb\bin\Debug\netcoreapp2.0\TestDb.deps.json
+C:\Users\samue\source\repos\TestDb\TestDb\bin\Debug\netcoreapp2.0\TestDb.runtimeconfig.json
+C:\Users\samue\source\repos\TestDb\TestDb\bin\Debug\netcoreapp2.0\TestDb.runtimeconfig.dev.json
+C:\Users\samue\source\repos\TestDb\TestDb\bin\Debug\netcoreapp2.0\TestDb.dll
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.AssemblyInfo.cs
+C:\Users\samue\source\repos\TestDb\TestDb\bin\Debug\netcoreapp2.0\TestDb.pdb
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.dll
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.pdb
+C:\Users\samue\source\repos\TestDb\TestDb\obj\Debug\netcoreapp2.0\TestDb.csprojAssemblyReference.cache
